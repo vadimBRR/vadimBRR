@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Hi, I’m **Vadym** — a **Full Stack Developer** who loves building modern, high‑performance web applications.  
+Hi, I’m **Vadym** - a **Full Stack Developer** who loves building modern, high‑performance web applications.  
 I focus on **React**, **Next.js**, and **Node.js**, creating clean, scalable solutions with a strong eye for design.
 
 I enjoy crafting:
@@ -18,7 +18,7 @@ I enjoy crafting:
 - Scalable **APIs**  
 - Performant, maintainable code  
 
-For me, development isn’t just work — it’s a way to bring ideas to life with both creativity and precision.  
+For me, development isn’t just work - it’s a way to bring ideas to life with both creativity and precision.  
 Always learning, always improving.
 
 💬 *"Keep it simple, stupid ^.^"* is the line I keep coming back to.  
@@ -74,22 +74,6 @@ Always learning, always improving.
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vadimBRR&show_icons=true&theme=dark&count_private=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadimBRR&layout=compact&theme=dark&count_private=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vadimBRR&theme=dracula&row=1&margin-w=10&no-frame=true"/>
 </p>
 
 ---
