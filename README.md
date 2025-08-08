@@ -13,11 +13,6 @@
 Hi, I’m **Vadym** - a **Full Stack Developer** who loves building modern, high‑performance web applications.  
 I focus on **React**, **Next.js**, and **Node.js**, creating clean, scalable solutions with a strong eye for design.
 
-I enjoy crafting:
-- Sleek, responsive **UI**  
-- Scalable **APIs**  
-- Performant, maintainable code  
-
 For me, development isn’t just work - it’s a way to bring ideas to life with both creativity and precision.  
 Always learning, always improving.
 
